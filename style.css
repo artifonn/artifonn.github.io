@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background: #131313;
+    font-family: 'Poppins', sans-serif;
+}
+
+#sergio {
+    font-weight: 600;
+    color: #4d94dc;
+}
+
+p {
+    color: #ffffff;
+}
+.habilidades
+ {
+    color: #4d94dc;
+    font-size: 22px;
+}
+ul {
+    color: #ffffff;
+}
+
+.trybe,
+.github, 
+.linkedin {
+    color: #4d94dc;
+}
+
+ul a {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+
+
+
